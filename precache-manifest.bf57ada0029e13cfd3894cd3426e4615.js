@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "65079b9d26f11ce1bd60",
-    "url": "/mecurosity/static/css/main.1362091b.chunk.css"
+    "revision": "ec041eea18fc9d47bc23",
+    "url": "/mecurosity/static/css/main.243ab4ad.chunk.css"
   },
   {
-    "revision": "65079b9d26f11ce1bd60",
-    "url": "/mecurosity/static/js/main.65079b9d.chunk.js"
+    "revision": "ec041eea18fc9d47bc23",
+    "url": "/mecurosity/static/js/main.ec041eea.chunk.js"
   },
   {
-    "revision": "2ad6e5caea3042c3ca11",
-    "url": "/mecurosity/static/css/1.2b2233f5.chunk.css"
+    "revision": "751e0b6fbed0042b8574",
+    "url": "/mecurosity/static/css/1.62d75ea4.chunk.css"
   },
   {
-    "revision": "2ad6e5caea3042c3ca11",
-    "url": "/mecurosity/static/js/1.2ad6e5ca.chunk.js"
+    "revision": "751e0b6fbed0042b8574",
+    "url": "/mecurosity/static/js/1.751e0b6f.chunk.js"
   },
   {
     "revision": "404c6a1e668558618cca",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/mecurosity/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
-    "url": "/mecurosity/static/media/outline-icons.ef60a4f6.woff"
-  },
-  {
     "revision": "cd6c777f1945164224dee082abaea03a",
     "url": "/mecurosity/static/media/outline-icons.cd6c777f.woff2"
+  },
+  {
+    "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
+    "url": "/mecurosity/static/media/outline-icons.ef60a4f6.woff"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -64,10 +64,6 @@ self.__precacheManifest = [
     "url": "/mecurosity/static/media/brand-icons.a046592b.woff"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/mecurosity/static/media/icons.b87b9ba5.ttf"
-  },
-  {
     "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
     "url": "/mecurosity/static/media/icons.8e3c7f55.eot"
   },
@@ -76,12 +72,16 @@ self.__precacheManifest = [
     "url": "/mecurosity/static/media/brand-icons.13db00b7.eot"
   },
   {
-    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
-    "url": "/mecurosity/static/media/outline-icons.82f60bd0.svg"
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/mecurosity/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/mecurosity/static/media/brand-icons.c5ebe0b3.ttf"
+  },
+  {
+    "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
+    "url": "/mecurosity/static/media/outline-icons.82f60bd0.svg"
   },
   {
     "revision": "962a1bf31c081691065fe333d9fa8105",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/mecurosity/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "ba0d1aded10bbd32559b7ddca493e5d1",
+    "revision": "c9ebfe3de7ac0a3bd8725a47f07ac197",
     "url": "/mecurosity/index.html"
   }
 ];
