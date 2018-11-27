@@ -1,4 +1,6 @@
 import React from 'react';
+import styles from './style.css';
+
 
 class About extends React.Component {
   constructor() {
@@ -8,7 +10,17 @@ class About extends React.Component {
   render() {
     return (
         <div>
-            <h1>About Page</h1>
+            <div className={styles.maincontent}>
+                <div className='ui white inverted header' id={styles.name}>
+                Dsen Wan
+                </div>
+
+                <div className='ui white inverted header' id={styles.imagetext}>
+
+                Keep your feet on the ground and your thoughts at lofty heights
+                </div>
+
+            </div>
         </div>
     );
   }

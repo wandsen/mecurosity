@@ -11,14 +11,17 @@
  background-image: url('SriLanka.jpeg');
  background-position: center;
  background-repeat: no-repeat;
+ background-position: fixed;
  background-size: cover;
+ z-index: -1;
 }
 
 :local(#imagetext){
 	position: relative;
 	float: left;
-	top: 50%;
+	top: 30%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	font-family: 'Shadows Into Light', cursive;
+	font-size: 2em;
 }

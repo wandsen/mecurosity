@@ -8,13 +8,46 @@ import CoverImage from './components/CoverImage/coverimage'
 
 
 
-class App extends Component {
+class Navigation extends Component {
+
   render() {
     return (
-      <div>
-      <CoverImage/>
+      <div id='navbar'>
+        <div class="ui secondary pointing menu">
+          <a class="active item">
+            Home
+          </a>
+          <a class="item">
+            About Me
+          </a>
+          <a class="item">
+            Projects
+          </a>
+          <div class="right menu">
+            <a class="ui item">
+              Logout
+            </a>
+          </div>
+        </div>
+      </div>
+    );
+  }
+}
 
-      <About />
+
+
+
+
+class App extends Component {
+
+  render() {
+
+    return (
+      <div>
+          <Navigation/>
+          <CoverImage/>
+          <About/>
+
       </div>
     );
   }
