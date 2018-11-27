@@ -2,7 +2,7 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wandsen.github.io/mecuriosity/",
+  "homepage": "https://wandsen.github.io/mecurosity/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
