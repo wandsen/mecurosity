@@ -2,12 +2,19 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+
+import About from './components/About/about';
+import CoverImage from './components/CoverImage/coverimage'
+
+
+
 class App extends Component {
   render() {
     return (
       <div>
-      <h1>My Personnel Website</h1>
+      <CoverImage/>
 
+      <About />
       </div>
     );
   }
