@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "ec041eea18fc9d47bc23",
-    "url": "/mecurosity/static/css/main.243ab4ad.chunk.css"
+    "revision": "c93b8da36ed2fa1e884a",
+    "url": "/mecurosity/static/css/main.08aeefb9.chunk.css"
   },
   {
-    "revision": "ec041eea18fc9d47bc23",
-    "url": "/mecurosity/static/js/main.ec041eea.chunk.js"
+    "revision": "c93b8da36ed2fa1e884a",
+    "url": "/mecurosity/static/js/main.c93b8da3.chunk.js"
   },
   {
-    "revision": "751e0b6fbed0042b8574",
-    "url": "/mecurosity/static/css/1.62d75ea4.chunk.css"
+    "revision": "0616e480796c427c30e1",
+    "url": "/mecurosity/static/css/1.a502a5e4.chunk.css"
   },
   {
-    "revision": "751e0b6fbed0042b8574",
-    "url": "/mecurosity/static/js/1.751e0b6f.chunk.js"
+    "revision": "0616e480796c427c30e1",
+    "url": "/mecurosity/static/js/1.0616e480.chunk.js"
   },
   {
     "revision": "404c6a1e668558618cca",
@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/mecurosity/static/media/logo.5d5d9eef.svg"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/mecurosity/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/mecurosity/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/mecurosity/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/mecurosity/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "c9ebfe3de7ac0a3bd8725a47f07ac197",
+    "revision": "6660b4c7794bcef0570b1538731d9fb3",
     "url": "/mecurosity/index.html"
   }
 ];
