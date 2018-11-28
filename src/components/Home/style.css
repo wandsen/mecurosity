@@ -1,16 +1,17 @@
 :local(.maincontent){
 	position: absolute;
 	float: left;
-	top: 30%;
+	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	background: rgb(0,0,0, 0.4);
+
 }
+
 
 :local(#imagetext){
 	position: relative;
 	font-family: 'Shadows Into Light', cursive;
-	font-size: 1.5em;
+	font-size: 2em;
 	text-align: center;
 }
 
