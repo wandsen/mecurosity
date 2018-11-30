@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "8a2199a0bcb186a49486",
-    "url": "/mecurosity/static/css/main.0259fc19.chunk.css"
+    "revision": "48c5b8a07a56e5a7ca9a",
+    "url": "/mecurosity/static/css/main.d38323c5.chunk.css"
   },
   {
-    "revision": "8a2199a0bcb186a49486",
-    "url": "/mecurosity/static/js/main.8a2199a0.chunk.js"
+    "revision": "48c5b8a07a56e5a7ca9a",
+    "url": "/mecurosity/static/js/main.48c5b8a0.chunk.js"
   },
   {
-    "revision": "ae89081f2dbc5dfcad0c",
+    "revision": "6a546b64a1ff56769510",
     "url": "/mecurosity/static/css/1.a502a5e4.chunk.css"
   },
   {
-    "revision": "ae89081f2dbc5dfcad0c",
-    "url": "/mecurosity/static/js/1.ae89081f.chunk.js"
+    "revision": "6a546b64a1ff56769510",
+    "url": "/mecurosity/static/js/1.6a546b64.chunk.js"
   },
   {
     "revision": "404c6a1e668558618cca",
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/mecurosity/static/media/brand-icons.a046592b.woff"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/mecurosity/static/media/icons.b87b9ba5.ttf"
-  },
-  {
     "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
     "url": "/mecurosity/static/media/icons.8e3c7f55.eot"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/mecurosity/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/mecurosity/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "eda61837bd217324f6d8cf6f4fe7508b",
+    "revision": "69082491d714e18c84c09c268da56004",
     "url": "/mecurosity/index.html"
   }
 ];
