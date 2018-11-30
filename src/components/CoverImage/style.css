@@ -1,11 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 
 :local(.cover){
-	height: 100vh;
+	height: 800px;
+	width: auto;
+	display: block;
 }
 
 :local(.coverimage){
- width: auto;
+ width: 100%;
  height: 100%;
  background-size: 100%;
  background-image: url('SriLanka.jpeg');
@@ -13,15 +15,28 @@
  background-repeat: no-repeat;
  background-position: fixed;
  background-size: cover;
- z-index: -1;
 }
 
-:local(#imagetext){
-	position: relative;
+:local(.maincontent){
+	position: absolute;
 	float: left;
 	top: 30%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+
+}
+
+:local(#imagetext){
+	position: relative;
 	font-family: 'Shadows Into Light', cursive;
 	font-size: 2em;
+	text-align: center;
+}
+
+:local(#name){
+	position: relative;
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 3em;
+	font-weight: 800;
+	text-align: center;
 }
