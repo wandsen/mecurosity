@@ -10,17 +10,7 @@ class Home extends React.Component {
   render() {
     return (
         <div>
-            <div className={styles.maincontent}>
-                <div className='ui white inverted header' id={styles.name}>
-                Dsen Wan
-                </div>
-
-                <div className='ui white inverted header' id={styles.imagetext}>
-
-                Keep your feet on the ground and your thoughts at lofty heights
-                </div>
-
-            </div>
+            test
         </div>
     );
   }

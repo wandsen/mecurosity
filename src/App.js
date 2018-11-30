@@ -31,7 +31,7 @@ class Navigation extends Component {
       <div id='navbar'>
         <div className="ui secondary pointing menu">
           <a className="item" value='home' onClick={()=> {this.returnEvent('home')}} >
-            About
+            Education
           </a>
           <a className="item" value='about' onClick={()=> {this.returnEvent('experience')}}>
             Experience
@@ -45,10 +45,6 @@ class Navigation extends Component {
   }
 }
 
-
-
-
-
 class App extends React.Component {
   constructor() {
     super()
@@ -60,14 +56,12 @@ class App extends React.Component {
     this.onClickHandler = this.onClickHandler.bind(this);
   }
 
-
   onClickHandler(event){
     console.log('setting state')
     this.setState({content: event})
   }
 
   render() {
-
     let mainContent = 'home'
 
     if(this.state.content === 'projects'){
