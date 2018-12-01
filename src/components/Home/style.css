@@ -7,7 +7,6 @@
 
 }
 
-
 :local(#imagetext){
 	position: relative;
 	font-family: 'Shadows Into Light', cursive;
@@ -21,4 +20,8 @@
 	font-size: 3em;
 	font-weight: 800;
 	text-align: center;
+}
+
+:local(.pad){
+	height: 70px;
 }

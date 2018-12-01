@@ -10,7 +10,20 @@ class Projects extends React.Component {
 
     return (
         <div>
+
+            <div className={styles.pad}></div>
+
             <div class='ui grid'>
+              <div class='row'>
+                <div class='four wide column'></div>
+                <div class='eight wide column'>
+                  <div class='ui small centered header'>
+                    Showcasing Product Prototypes
+                  </div>
+                    Highly Interested in the exploration of unique business models to bring unlock value in society. Do contact me if you wish to further discuss some of these projects that i've done.
+                </div>
+                <div class='four wide column'></div>
+              </div>
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
@@ -21,7 +34,7 @@ class Projects extends React.Component {
                     GrocerSub
                   </div>
                   <div class='ui segment'>
-                  E-commerce app that explores the concept of subscriptions and how it is able to value-add to the modern consumer while achieving cost savings with bulk purchases and staggered delivery.
+                    E-commerce app that explores the concept of subscriptions and how it is able to value-add to the modern consumer while achieving cost savings with bulk purchases and staggered delivery.
                   </div>
                 </div>
                 <div class='two wide column'></div>
@@ -75,6 +88,7 @@ class Projects extends React.Component {
               </div>
             </div>
 
+        <div className={styles.pad}></div>
 
         </div>
     )

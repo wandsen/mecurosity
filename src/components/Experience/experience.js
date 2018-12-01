@@ -8,18 +8,25 @@ class Experience extends React.Component {
 
   render() {
     return (
+
+
         <div>
+        <div className={styles.pad}></div>
+
             <div class='ui grid'>
               <div class='row'>
-                <div class='two wide column'></div>
-                <div class='twelve wide column'>
+                <div class='four wide column'></div>
+                <div class='eight wide column'>
                   <div class='ui small centered header'>
                     Career Objective
                   </div>
                     I offer strong interpersonal skills to develop global customer solutions with thought leadership coupled with a demonstrated history of working in the government administration and senior executives. To secure a challenging position to develop as a software developer professionally.
                 </div>
-                <div class='two wide column'></div>
+                <div class='four wide column'></div>
               </div>
+
+        <div className={styles.pad}></div>
+
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
@@ -64,6 +71,8 @@ class Experience extends React.Component {
                 <div class='two wide column'></div>
               </div>
             </div>
+    <div className={styles.pad}></div>
+
         </div>
     )
   }

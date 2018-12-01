@@ -50,7 +50,7 @@ class App extends React.Component {
     super()
 
     this.state = {
-      content: 'experience'
+      content: 'home'
     }
 
     this.onClickHandler = this.onClickHandler.bind(this);
