@@ -30,7 +30,7 @@ class Projects extends React.Component {
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
-                  <img src={grocerimage} class='ui image' />
+                  <img src={grocerimage} alt="Pic" class='ui image' />
                 </div>
                 <div class='eight wide column'>
                   <div class='ui small header centered'>
@@ -46,7 +46,7 @@ class Projects extends React.Component {
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
-                  <img src={malayimage} class='ui image' />
+                  <img src={malayimage} alt="Pic" class='ui image' />
                 </div>
                 <div class='eight wide column'>
                   <div class='ui small header centered'>
@@ -63,7 +63,7 @@ class Projects extends React.Component {
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
-                  <img src={analazyer} class='ui image' />
+                  <img src={analazyer} alt="Pic" class='ui image' />
                 </div>
                 <div class='eight wide column'>
                   <div class='ui small header centered'>
@@ -80,7 +80,7 @@ class Projects extends React.Component {
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
-                  <img src={mathgame} class='ui image' />
+                  <img src={mathgame} alt="Pic" class='ui image' />
                 </div>
                 <div class='eight wide column'>
                   <div class='ui small header centered'>
