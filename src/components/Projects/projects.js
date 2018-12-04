@@ -1,5 +1,9 @@
 import React from 'react';
 import styles from './style.css';
+import grocerimage from './grocer.png'
+import malayimage from './malayme.png'
+import mathgame from './mathgame.png'
+import analazyer from './analazyer.png'
 
 class Projects extends React.Component {
   constructor() {
@@ -10,7 +14,6 @@ class Projects extends React.Component {
 
     return (
         <div>
-
             <div className={styles.pad}></div>
 
             <div class='ui grid'>
@@ -27,7 +30,7 @@ class Projects extends React.Component {
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
-                  <img src='https://react.semantic-ui.com/images/wireframe/image.png' class='ui image' />
+                  <img src={grocerimage} class='ui image' />
                 </div>
                 <div class='eight wide column'>
                   <div class='ui small header centered'>
@@ -35,6 +38,7 @@ class Projects extends React.Component {
                   </div>
                   <div class='ui segment'>
                     E-commerce app that explores the concept of subscriptions and how it is able to value-add to the modern consumer while achieving cost savings with bulk purchases and staggered delivery.
+                    <div><a href='https://github.com/wandsen/GA-Capstone-Project'>Link to Github</a></div>
                   </div>
                 </div>
                 <div class='two wide column'></div>
@@ -42,7 +46,7 @@ class Projects extends React.Component {
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
-                  <img src='https://react.semantic-ui.com/images/wireframe/image.png' class='ui image' />
+                  <img src={malayimage} class='ui image' />
                 </div>
                 <div class='eight wide column'>
                   <div class='ui small header centered'>
@@ -51,6 +55,7 @@ class Projects extends React.Component {
 
                   <div class='ui segment'>
                     Language learning web application (focused on learning Malay) coupled with forums and video playlists management tools.
+                    <div><a href='https://malayme.herokuapp.com/'>Link to Website</a></div>
                   </div>
                 </div>
                 <div class='two wide column'></div>
@@ -58,7 +63,7 @@ class Projects extends React.Component {
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
-                  <img src='https://react.semantic-ui.com/images/wireframe/image.png' class='ui image' />
+                  <img src={analazyer} class='ui image' />
                 </div>
                 <div class='eight wide column'>
                   <div class='ui small header centered'>
@@ -67,6 +72,7 @@ class Projects extends React.Component {
 
                   <div class='ui segment'>
                     Language learning web application (focused on learning Malay) coupled with forums and video playlists management tools.
+                    <div><a href='https://analazyer.herokuapp.com/'>Link to Website</a></div>
                   </div>
                 </div>
                 <div class='two wide column'></div>
@@ -74,14 +80,16 @@ class Projects extends React.Component {
               <div class='row'>
                 <div class='two wide column'></div>
                 <div class='three wide column'>
-                  <img src='https://react.semantic-ui.com/images/wireframe/image.png' class='ui image' />
+                  <img src={mathgame} class='ui image' />
                 </div>
                 <div class='eight wide column'>
                   <div class='ui small header centered'>
                     Edutainer
                   </div>
                   <div class='ui segment'>
-                    An education based web application to help kids (5-7yrs old) through incorporating game elements and animation to math problems. This app aims to explore the possibilities of "edu-tainment", a market with huge potential.
+
+                  This is my first ever Javascript application. An education based web application to help kids (5-7yrs old) through incorporating game elements and animation to math problems. This app aims to explore the possibilities of "edu-tainment", a market with huge potential.
+                    <div><a href='https://github.com/wandsen/Project1_KidsGame'>Link to Github</a></div>
                   </div>
                 </div>
                 <div class='two wide column'></div>
