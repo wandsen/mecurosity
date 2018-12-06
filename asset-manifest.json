@@ -1,7 +1,7 @@
 {
   "main.css": "/mecurosity/static/css/main.17c45ef4.chunk.css",
-  "main.js": "/mecurosity/static/js/main.339167b0.chunk.js",
-  "main.js.map": "/mecurosity/static/js/main.339167b0.chunk.js.map",
+  "main.js": "/mecurosity/static/js/main.4cdbdcbf.chunk.js",
+  "main.js.map": "/mecurosity/static/js/main.4cdbdcbf.chunk.js.map",
   "static/css/1.5a5f325e.chunk.css": "/mecurosity/static/css/1.5a5f325e.chunk.css",
   "static/js/1.61103bc7.chunk.js": "/mecurosity/static/js/1.61103bc7.chunk.js",
   "static/js/1.61103bc7.chunk.js.map": "/mecurosity/static/js/1.61103bc7.chunk.js.map",
@@ -17,6 +17,6 @@
   "static/css/main.17c45ef4.chunk.css.map": "/mecurosity/static/css/main.17c45ef4.chunk.css.map",
   "static/css/1.5a5f325e.chunk.css.map": "/mecurosity/static/css/1.5a5f325e.chunk.css.map",
   "index.html": "/mecurosity/index.html",
-  "precache-manifest.c95a436c126e203951d88fb3450721f5.js": "/mecurosity/precache-manifest.c95a436c126e203951d88fb3450721f5.js",
+  "precache-manifest.8b2ed64082e17d72c913ddb412f9f4b7.js": "/mecurosity/precache-manifest.8b2ed64082e17d72c913ddb412f9f4b7.js",
   "service-worker.js": "/mecurosity/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mecurosity/precache-manifest.c95a436c126e203951d88fb3450721f5.js"
+  "/mecurosity/precache-manifest.8b2ed64082e17d72c913ddb412f9f4b7.js"
 );
 
 workbox.clientsClaim();
