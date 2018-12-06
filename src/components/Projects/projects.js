@@ -71,7 +71,7 @@ class Projects extends React.Component {
                   </div>
 
                   <div class='ui segment'>
-                    Language learning web application (focused on learning Malay) coupled with forums and video playlists management tools.
+                  An app that uses an external API to retrieve annual reports such as the income statement and balance sheet. This app uses node js and express.
                     <div><a href='https://analazyer.herokuapp.com/'>Link to Website</a></div>
                   </div>
                 </div>
